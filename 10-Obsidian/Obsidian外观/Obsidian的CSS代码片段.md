@@ -76,12 +76,19 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-使用CSS为白板增加可选的标记功能]]
 - [[Obsidian样式-隐藏 markdown 标记]]
 
-### 列表&段落
+### 列表&段落&待办
 
 - [[Obsidian样式-ITS主题列表样式]]
 - [[Obsidian样式-段落首行增加缩进]]
 - [[Obsidian样式-标题-列表-图片美化]]
 - [[Obsidian样式-书签列表样式]]
+- [[Obsidian样式-待办完成样式]]
+- [[Obsidian样式-自定义待办图标]]
+- [[Obsidian样式-待办事项美化复选框]]
+- [[Obsidian样式-自定义大纲缩进线样式]]
+- [[Obsidian样式-给列表添加动态引导线]]
+- [[Obsidian样式-如何自定义段落前后间距]]
+- [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
 
 ### 图片
 
@@ -125,19 +132,6 @@ Obsidian 还支持一种外部样式代码引用的方式。
 - [[Obsidian样式-文件管理名称滚动效果]]
 - [[Obsidain样式-自定义文件夹图标]]
 - [[Obsidian样式-超长文件名换行]]
-
-### 段落
-
-- [[Obsidian样式-如何自定义段落前后间距]]
-- [[Obsidian样式-特殊标签-让Markdown的文本多彩多色]]
-
-### 列表、待办
-
-- [[Obsidian样式-待办完成样式]]
-- [[Obsidian样式-自定义待办图标]]
-- [[Obsidian样式-待办事项美化复选框]]
-- [[Obsidian样式-自定义大纲缩进线样式]]
-- [[Obsidian样式-给列表添加动态引导线]]
 
 ### 引用
 
